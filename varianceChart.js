@@ -107,5 +107,5 @@ var symbolTypes = {
         .attr("class", "axisText")
         .text("Price");
 </script>
-
+//  https://jsfiddle.net/satendramicra/gm0e9g67/  live demo
 		
